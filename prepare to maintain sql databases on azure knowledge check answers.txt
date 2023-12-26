@@ -1,0 +1,6 @@
+1. What Azure storage is recommended for production data files that requires maximum throughput? 
+A: Ultra disks
+2. What option should you select to change the auto-pause setting of a serverless SQL Database? 
+A: The Azure portal allows you to change the auto-pause setting at any time
+3. Which SQL Server PaaS offering should you choose if you want to restore an on-premises database backup to Azure? 
+A: Azure SQL Managed Instance
