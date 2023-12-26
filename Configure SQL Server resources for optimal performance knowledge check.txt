@@ -1,0 +1,7 @@
+--Configure SQL Server resources for optimal performance knowledge check.
+1. Which type of storage should be used in conjunction with Azure VMs for SQL Server data files? 
+A:Disk storage
+2. Which of the following can be limited using Resource Governor?
+A: Write IOPs
+3. Which is an option from the SQL Server Resource Provider for Azure VMs? 
+A: Storage configuration
